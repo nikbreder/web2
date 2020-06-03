@@ -32,12 +32,10 @@
         padding: 15px 5px;
         text-transform: uppercase;
         vertical-align: middle;
-        background: rgb(60,141,188);
         border: none;
-        color: #ffffff;
+        color: black;
         font-weight: 600;
         border-radius: 5px;
-        box-shadow: 0 0 10px rgb(54,127,169);
         text-decoration: none;
         text-align: center;
         display: block;
